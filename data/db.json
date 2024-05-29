@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "5",
+      "title": "Blog ketiga",
+      "body": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero",
+      "author": "Dimas"
+    },
+    {
+      "id": "6",
+      "title": "Blog keempat",
+      "body": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero",
+      "author": "Galih"
+    },
+    {
+      "id": "d7c6",
+      "title": "Blog Pertama",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus quam eu leo ultrices venenatis. Aliquam erat volutpat. Proin facilisis nisl ac auctor finibus. Vivamus porta est quis risus tempus interdum. Nunc eleifend cursus fringilla. Quisque a malesuada purus. Nullam sed risus varius dolor condimentum efficitur. Vestibulum eleifend dictum est vitae varius. Nunc rutrum bibendum suscipit. Vestibulum commodo nibh velit, nec varius massa porttitor sed. Nulla varius ornare sollicitudin. Etiam orci erat, ultricies sed luctus sed, auctor non nibh.",
+      "author": "Reza"
+    }
+  ]
+}
